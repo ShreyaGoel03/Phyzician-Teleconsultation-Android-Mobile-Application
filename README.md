@@ -38,33 +38,31 @@ details, for example Body mass index, blood pressure, step count, and menstrual 
 
 ### Stakeholders
 <p>
-1. <b> Administration </b> - Admin refers to the main head component of the application, which is an interface between the doctor and
-the patient.
-2. <b> Doctors  </b> - The doctor is one of the application's stakeholders. The doctor has to set up their profile, choose the slots,
-check appointments and chat with the patients.
-3. <b> Patients  </b> - The patient is one of the application's stakeholders. Any patient willing for a teleconsultation can log in to our application using its mobile number and can choose the doctor from the available speciality then, book an appointment from the open visiting hours of the doctor.
+1. <b> Administration </b> - Admin refers to the main head component of the application, which is an interface between the doctor and the patient.<br/>
+2. <b> Doctors  </b> - The doctor is one of the application's stakeholders. The doctor has to set up their profile, choose the slots, check appointments and chat with the patients.<br/>
+3. <b> Patients  </b> - The patient is one of the application's stakeholders. Any patient willing for a teleconsultation can log in to our application using its mobile number and can choose the doctor from the available speciality then, book an appointment from the open visiting hours of the doctor.<br/>
 </p>
 
 ## ScreenShots
 
 ### Session Onboarding:
-<p align = "justify"> Using material design Onboarding i.e Application Walkthrough - An initial hierarchy that creates meaning for our Application. <p> <br/>
-<img src="" width=30% height=10%>    <img src="" width=30% height=30%>     <img src="" width=30% height=30%> <br/>
-
-
-
-
-
+<p align = "justify"> Using material design Onboarding i.e Application Walkthrough - An initial hierarchy that creates meaning for our Application. <p> 
+<p float = "left">
+<img src="https://user-images.githubusercontent.com/43794593/154730818-f73b074d-d741-40bd-b64f-f93798f21957.png" width=20% height=20%>    <img src="https://user-images.githubusercontent.com/43794593/154730825-7e6237f2-9f92-4494-95e7-30bd22bca1a4.png" width=20% height=20%>     <img src="https://user-images.githubusercontent.com/43794593/154730828-7f5e9f81-aab4-49bf-b942-5122bd850e76.png" width=20% height=20%>     <img src="https://user-images.githubusercontent.com/43794593/154730832-74288c24-fc43-4b01-b4ad-6f63003fca3f.png" width=20% height=20%> <br/>
+</p>
 
 ### Role based Login
-<p align = "justify"> <p> <br/>
-<img src="" width=30% height=30%>       <img src="" width=30% height=30%> <br/>
+<p align = "justify"> We have implemented a Role-based Login Feature, Where Admins, Doctors or Patients will be redirected to their respective pages. We have used Email authentication service for firebase console. <p> 
+<img src="https://user-images.githubusercontent.com/43794593/154730840-50ff5073-593b-493e-83c2-c5b0fede32b9.png" width=20% height=20%><br/>
 
 ### Logout
 <p align = "justify">  <p> <br/>
-<img src="" width=30% height=30%>   <br/>
+<img src="https://user-images.githubusercontent.com/43794593/154731854-33c3c711-2d73-4636-ad70-8e3c8d258431.png" width=20% height=20%>   <br/>
 
 ### Administration
+<p align = "justify" Admin refers to the main head component of the application, which is an interface between the doctor and
+the patient. The admin has the list of all the doctors available. It also has to verify the payments for the final confirmation of the appointments. It has the right to add a doctor to the available doctors in the application. Admin has the view of all the chats that are taking place between the patients with their
+respective doctors. The navigation drawer is present, which contains all the features available to the admin.</p>
 #### Login
 <p align = "justify">  <p> <br/>
 <img src="" width=30% height=10%>    <img src="" width=30% height=30%>     <img src="" width=30% height=30%> <br/>
