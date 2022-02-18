@@ -4,11 +4,11 @@
 <p align = "justify">
 The purpose of phyzician is to automate the existing manual system with the help of computer software and technologies. The primary goal is to keep track of doctor, appointment, patient, booking, and doctor schedule
 information. It keeps track of all doctor-related information, such as fees and schedules. <b> This project aims to create application software that will decrease the amount of manual effort involved in maintaining
-Doctors, Appointments, Doctor Fees, and Patients.</b> <br/>
+Doctors, Appointments, Doctor Fees, and Patients.</b> 
 
 <p align = "justify">
 One of the essential uses in telemedicine is teleconsultation, a method of communication over networks. Videoconferencing technology is used in real-time consultations, allowing medical specialists and clients
-to connect. Both sites must interact and change photos and documents in real-time throughout the consultation. </p><br/>
+to connect. Both sites must interact and change photos and documents in real-time throughout the consultation. </p>
 
 <p align = "justify">
 Teleconsultation, which uses electronic information and communication technology, can provide a cost-effective healthcare approach used in clinics. A teleconsultation is a valuable tool for remote
