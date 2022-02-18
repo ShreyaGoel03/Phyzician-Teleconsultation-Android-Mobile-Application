@@ -134,19 +134,19 @@ the firebase authentication method, and they have the right to reset their passw
 <p float = "left">
 <img src="https://user-images.githubusercontent.com/43794593/154756481-b752ad07-28dc-4b11-8992-409983525170.png" width=20% height=20%>    <img src="https://user-images.githubusercontent.com/43794593/154756490-52a7fd84-7ac5-4e98-b63b-65249f31ee67.png" width=20% height=20%>  </p>
 
-##### Forgot/Update Password
+#### Forgot/Update Password
 <p align = "justify"> With the click of forgot password, the screen will appear containing edit text for
 email id. With the reset button click, the user will receive a reset password email sent from Firebase
 Console</p> 
 <img src="https://user-images.githubusercontent.com/43794593/154756492-641214e9-c53c-4ff0-ae92-97feaf392667.png" width=20% height=20%>
 
-##### View Profile
+#### View Profile
 <p align = "justify"> If Doctor is logging in for the first time in the application, they have to update all the necessary details otherwise, there is an option to edit attributes in a profile section. The details to be added are Name,
 Gender, Email, Speciality, Experience, Bio, Consultation Fees, Profile picture, and will be added in the
 firebase. On the click of the Profile option, the profile of the doctor will be visible along with their image.</p>
 <img src="https://user-images.githubusercontent.com/43794593/154756728-b2391cb4-a66a-49e0-ad0f-f0baed518d78.png" width=20% height=20%>
 
-##### Update Profile
+#### Update Profile
 <p align = "justify">The doctor can update the details anytime by clicking on update details. </p> 
 <p float = "left">
 <img src="https://user-images.githubusercontent.com/43794593/154756789-4baf2cee-59cb-4a47-9860-a1018568c63a.png" width=20% height=20%>    <img src="https://user-images.githubusercontent.com/43794593/154756799-b1df43a3-dde5-4c7a-9006-e8d5cea35af2.png" width=20% height=20%>  </p>
@@ -199,19 +199,19 @@ given edit text, After clicking the Get OTP button, Firebase will send an OTP to
 <p float = "left">
 <img src="https://user-images.githubusercontent.com/43794593/154757608-d289423b-6864-4f52-bc6b-0166ba7e68b4.png" width=20% height=20%>    <img src="https://user-images.githubusercontent.com/43794593/154757620-4f5da234-51b7-47fd-a9ee-d26a07a36f13.png" width=20% height=20%> </p>
 
-##### Our Doctors
+#### Our Doctors
 <p align = "justify">After login, the patient can see the list of all the available doctors who are currently providing the
 teleconsultation on our doctors' click. On clicking any doctor, the doctor's details are shown in another
 activity.</p> 
 <p float = "left">
 <img src="https://user-images.githubusercontent.com/43794593/154757634-9eb679ec-2415-47a7-bdbf-a88c46be32c5.png" width=20% height=20%>  </p>
 
-##### Find Doctors by Speciality
+#### Find Doctors by Speciality
 <p align = "justify"> After login, the patient can see the list of all the available specializations using the horizontal recycler view or search speciality in the grid recycler view. On clicking any doctor, the doctor's details are shown in another activity. The patient can click on any speciality, and the respective doctors are shown in the next activity. The patient can look at the profile of the doctors by clicking on the doctor list view.</p>
 <p float = "left">
 <img src="https://user-images.githubusercontent.com/43794593/154757646-ee3ca7dc-bba2-4bd9-901b-22f07151c617.png" width=20% height=20%>    <img src="https://user-images.githubusercontent.com/43794593/154757661-af91b4aa-15d7-43e6-be1e-c02bd5eebf33.png" width=20% height=20%> </p>
 
-##### Know Your Doctor
+#### Know Your Doctor
 <p align = "justify">Know your doctor screen contains all the details related to the doctor. The details include Name,
 Specialized area of the doctor, today's availability, description of the doctor, contact details, and
 consultation fees. The buttons All Prescription, Book Appointment and Chat are visible. </p> 
@@ -259,12 +259,12 @@ in kilograms and m2 represents their height in meters squared. Here the user has
 <p float = "left">
 <img src="https://user-images.githubusercontent.com/43794593/154759155-8794eafa-30aa-42e9-a49f-e6de25988afd.png" width=20% height=20%>    <img src="https://user-images.githubusercontent.com/43794593/154759057-5f711e2a-7f76-4aa9-8563-0612ef3c3e52.png" width=20% height=20%> </p>
 
-##### Step Counter
+#### Step Counter
 <p align = "justify"> The patient can keep track of the daily steps with the distance travelled in km and calories burnt in cal. The horizontal calendar is visible at the top, pointing at the current date. The permission ACTIVITY_RECOGNITION is checked if it has been granted, then the step counter service is started in the background. The TYPE_STEP_COUNTER sensor is used, which registers the listener and updates the steps simultaneously as it tracks them using the Step sensor. The distance in cm is calculated as the product of 74*number of steps which are converted into kms. Then the calories burnt is calculated by the product of 0.04*number of steps. The steps, calories, and distance are visible in their edit text boxes.</p> 
 <p float = "left">
 <img src="https://user-images.githubusercontent.com/43794593/154759068-8f562591-f7a6-450a-ac02-0d648feec440.png" width=20% height=20%>    <img src="https://user-images.githubusercontent.com/43794593/154759076-34c89a1d-a17a-40fb-879e-ad13e117d73e.png" width=20% height=20%> </p>
 
-##### Blood Pressure
+#### Blood Pressure
 <p align = "justify">Phyzihealth has an option to record blood pressure to keep an eye on your health and is designed to
 monitor and record both diastolic and systolic blood pressure, as well as your pulse rate. The user
 selects the dates by scrolling and is picked up using the setCalendarListener() function. With the click of
@@ -272,7 +272,7 @@ dates on the calendar, the user can check previously recorded systolic and diast
 <p float = "left">
 <img src="https://user-images.githubusercontent.com/43794593/154759322-ae4b8988-e470-4599-a826-6259be1e1f62.png" width=20% height=20%>    <img src="https://user-images.githubusercontent.com/43794593/154759328-1cdfd048-a126-44c6-b6a6-4dbd25dca95e.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/43794593/154759341-322ea8c4-d383-47ff-91b8-a3068577514b.png" width=20% height=20%></p>
 
-##### Women’s Health
+#### Women’s Health
 <p align = "justify"> Women's Health contains a menstruation tracker where savvi.rangedatepicker.CalendarPickerView() is
 used for calendar. The click of duration will display the pop-up box to edit the cycle duration, and the upcoming date displays the next five months predicted dates. The home button redirects the patient to the home page. </p> 
 <p float = "left">
