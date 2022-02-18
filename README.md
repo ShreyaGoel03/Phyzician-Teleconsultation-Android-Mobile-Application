@@ -6,9 +6,11 @@ The purpose of phyzician is to automate the existing manual system with the help
 information. It keeps track of all doctor-related information, such as fees and schedules. <b> This project aims to create application software that will decrease the amount of manual effort involved in maintaining
 Doctors, Appointments, Doctor Fees, and Patients.</b> <br/>
 
+<p align = "justify">
 One of the essential uses in telemedicine is teleconsultation, a method of communication over networks. Videoconferencing technology is used in real-time consultations, allowing medical specialists and clients
-to connect. Both sites must interact and change photos and documents in real-time throughout the consultation. <br/>
+to connect. Both sites must interact and change photos and documents in real-time throughout the consultation. </p><br/>
 
+<p align = "justify">
 Teleconsultation, which uses electronic information and communication technology, can provide a cost-effective healthcare approach used in clinics. A teleconsultation is a valuable tool for remote
 consultations and discussion conferences. Teleconsultation can increase accessibility and quality of treatment and reduce expenses. The main
 functions of the teleconsultation that are considered under a single application include:<br/><br/>
@@ -37,7 +39,7 @@ details, for example Body mass index, blood pressure, step count, and menstrual 
 </p>
 
 ### Stakeholders
-<p>
+<p align = "justify">
 1. <b> Administration </b> - Admin refers to the main head component of the application, which is an interface between the doctor and the patient.<br/>
 2. <b> Doctors  </b> - The doctor is one of the application's stakeholders. The doctor has to set up their profile, choose the slots, check appointments and chat with the patients.<br/>
 3. <b> Patients  </b> - The patient is one of the application's stakeholders. Any patient willing for a teleconsultation can log in to our application using its mobile number and can choose the doctor from the available speciality then, book an appointment from the open visiting hours of the doctor.<br/>
