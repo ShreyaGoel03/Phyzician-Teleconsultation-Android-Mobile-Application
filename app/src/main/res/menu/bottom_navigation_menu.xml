@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_sms"
+        android:icon="@drawable/ic_appoint"
+        android:title="Upcoming Date" />
+    <item
+        android:id="@+id/navigation_Duratoin"
+        android:icon="@drawable/ic_baseline_update"
+        android:title="Duration" />
+</menu>

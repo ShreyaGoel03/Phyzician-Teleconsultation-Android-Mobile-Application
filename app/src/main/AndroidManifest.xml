@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ahujaclinic">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION"/>
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-feature
+        android:name="android.hardware.sensor.accelerometer"
+        android:required="true" />
+    <uses-feature android:name="android.hardware.sensor.stepcounter"
+        android:required="true"/>
+    <uses-feature android:name="android.hardware.sensor.stepdetector"
+        android:required="true"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TeleClinic">
+        <activity android:name=".Patient_side_prescription_recycler"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".Presciption_PatientSide"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".Contact"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StartActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".About"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".View_All_Speciality"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Available_Doctors"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Patient_Display_Doctor"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Doctors_Add_Admin"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ForgotPassword"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Doctors"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Patient"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".verifyOtp"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".PatientLogin"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".DoctorsLogin"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".AskRole"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Doctors_Update_Profile"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Doctors_View_Profile"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Doctor_ChooseSlots"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Patient_Booking_Appointments"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".PrescriptionActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Patient_Details_Doctors_Side"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Patient_MessageActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Doctor_Chat_Display"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Doctor_MessageActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Patient_Chat_Display"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Admin_Available_Appointments"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Admin_Doctor_Details"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Admin_Activity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Appointments"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Feedback"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Doctors_Show_Previous_Prescription_Doctors"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Doctor_Side_Previous_Prescriptions"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Doctors_Show_Feedback"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Admin_Payments"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Patient_Appointments"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Admin_ChatDisplay"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Admin_MessageActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Patient_Payment_Appt"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Admin_FeedBack"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Admin_Show_FeedBack"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".PhyziHealth_StepCounter"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".PhyziHealth"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".PhyziHealth_bmiActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BloodPressure"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".WHealth"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".PhyziHealth_BloodPressure_View"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <service android:name=".StepCounter_Service"/>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

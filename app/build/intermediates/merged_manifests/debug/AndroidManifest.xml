@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <uses-feature
+        android:name="android.hardware.sensor.accelerometer"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.sensor.stepcounter"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.sensor.stepdetector"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TeleClinic" >
+        <activity
+            android:name="com.example.ahujaclinic.Patient_side_prescription_recycler"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.ahujaclinic.Presciption_PatientSide"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Contact"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.StartActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.About"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.View_All_Speciality"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Available_Doctors"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Patient_Display_Doctor"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Doctors_Add_Admin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.ForgotPassword"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Doctors"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Patient"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.verifyOtp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.PatientLogin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.DoctorsLogin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.AskRole"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Doctors_Update_Profile"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Doctors_View_Profile"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Doctor_ChooseSlots"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Patient_Booking_Appointments"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.PrescriptionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Patient_Details_Doctors_Side"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Patient_MessageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Doctor_Chat_Display"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Doctor_MessageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Patient_Chat_Display"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Admin_Available_Appointments"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Admin_Doctor_Details"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Admin_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Appointments"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Feedback"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Doctors_Show_Previous_Prescription_Doctors"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Doctor_Side_Previous_Prescriptions"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Doctors_Show_Feedback"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Admin_Payments"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Patient_Appointments"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Admin_ChatDisplay"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Admin_MessageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Patient_Payment_Appt"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Admin_FeedBack"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.Admin_Show_FeedBack"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.PhyziHealth_StepCounter"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.PhyziHealth"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.PhyziHealth_bmiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.BloodPressure"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.WHealth"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.PhyziHealth_BloodPressure_View"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.ahujaclinic.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service android:name="com.example.ahujaclinic.StepCounter_Service" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="firebase.auth"
+                    android:path="/"
+                    android:scheme="genericidp" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="firebase.auth"
+                    android:path="/"
+                    android:scheme="recaptcha" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </receiver>
+        <!--
+             FirebaseMessagingService performs security checks at runtime,
+             but set to not exported to explicitly avoid allowing another app to call it.
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+            android:exported="false" >
+            <meta-data
+                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+                android:value="cct" />
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.myapplication.firebaseinitprovider"
+            android:directBootAware="true"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <service
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" >
+        </service>
+
+        <receiver
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+            android:exported="false" />
+    </application>
+
+</manifest>

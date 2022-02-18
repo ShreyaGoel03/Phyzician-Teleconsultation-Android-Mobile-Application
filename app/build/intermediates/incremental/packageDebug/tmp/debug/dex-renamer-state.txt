@@ -1,0 +1,4 @@
+#Wed Jun 30 21:25:10 IST 2021
+base.0=/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v21/values-night-v21.xml",
+            "map": [
+                {
+                    "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/values-night-v21/themes.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "262"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "261"
+                    }
+                }
+            ]
+        }
+    ]
+}

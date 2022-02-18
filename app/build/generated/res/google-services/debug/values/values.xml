@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">784161200645-1meofdm4hol5q0oau347keot00n6p47u.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">784161200645</string>
+    <string name="google_api_key" translatable="false">AIzaSyBDOd2fQcqYIw3uXeGaLIYmC2ock9NmJRM</string>
+    <string name="google_app_id" translatable="false">1:784161200645:android:a850dec322156f61341a6c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBDOd2fQcqYIw3uXeGaLIYmC2ock9NmJRM</string>
+    <string name="google_storage_bucket" translatable="false">ahujaclinic-86055.appspot.com</string>
+    <string name="project_id" translatable="false">ahujaclinic-86055</string>
+</resources>

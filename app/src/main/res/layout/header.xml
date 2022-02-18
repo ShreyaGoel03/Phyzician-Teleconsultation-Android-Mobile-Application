@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Doctors_Update_Profile"
+    >
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="240dp"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:gravity="bottom"
+    >
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@mipmap/ic_launcher"
+        android:layout_marginTop="32dp"
+        android:padding="8dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Phyzician"
+        android:textSize="22sp"
+        android:layout_marginTop="4dp"
+        android:fontFamily="monospace"
+        android:padding="8dp"
+        android:textStyle="bold"
+        android:textColor="@color/teal_700"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="https://drahujaidclinic.com"
+        android:textSize="12sp"
+        android:layout_marginTop="2dp"
+        android:textStyle="bold"
+        android:fontFamily="monospace"
+        android:layout_gravity="center"
+        android:padding="8dp"/>
+
+
+</LinearLayout>
+</ScrollView>

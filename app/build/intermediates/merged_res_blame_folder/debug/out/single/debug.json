@@ -1,0 +1,2234 @@
+[
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_money.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_money.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_rx.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_rx.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_feed.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_feed.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_recieve.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/recieve.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_report.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_report.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_question.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_question.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_linkedin.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_linkedin.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_lock.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_lock.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_health.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_health.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_add.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_camera.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_camera.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_attach.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_attach.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/font_goblin_one.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/font/goblin_one.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_attach.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_attach.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_person1.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_person1.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_exam.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_exam.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_blood_yellow.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_blood_yellow.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_setting.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_setting.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_date.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_date.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_phone.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_presciption__patient_side.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_presciption__patient_side.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_prescription_over_mail.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/prescription_over_mail.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_feed.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_feed.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_contype.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_contype.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_twitter.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_twitter.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_person.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_person.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_share.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_facebook.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_facebook.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_password.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_password.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_delete.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_delete.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_payment.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_payment.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_mail.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_mail.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_admin_chat.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_admin_chat.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_delete.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_slot.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_slot.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_doctor_choose_slots.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_doctor_choose_slots.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_patient_login.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_patient_login.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_instructions.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_instructions.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_payment.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_payment.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_blood_yellow.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_blood_yellow.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_show_bp.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_show_bp.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_logout.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_weight.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_weight.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_edit.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_location.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_location.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_infectious.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/infectious.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_ask_role.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_ask_role.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_chat.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_chat.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_money.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_money.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_menu.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_mail.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_mail.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_show_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/show_password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_instructions.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_instructions.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_appoint.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_appoint.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_fire.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_fire.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_appoint.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_appoint.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_date.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_date.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_communicate.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_communicate.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_password.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_password.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_relevant.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_relevant.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_lock.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_lock.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_fire.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_fire.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_person1.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_person1.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_relevant.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_relevant.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_forgot_password.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_password_vector_asset.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/password_vector_asset.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_fire.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_fire.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_dlogin.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/dlogin.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_age.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_age.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_chat.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_chat.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_report.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_report.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_cancer.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/cancer.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_chat.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_chat.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_height.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_height.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_blood_yellow.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_blood_yellow.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_health.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_health.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_email_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/email_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_show_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/show_password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_slot.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_slot.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_special.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_special.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_feed.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_feed.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_gastro.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/gastro.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_menu.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_menu.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_diagnosis.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_diagnosis.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_fire.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_fire.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_add.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_signature.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_signature.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_doctor.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_doctor.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_home.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_home.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_rheuma.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/rheuma.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_backgroundbutton.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/backgroundbutton.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_share.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_report.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_report.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_bone.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/bone.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_admin_appointments.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_admin_appointments.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/menu_patient_menu.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/menu/patient_menu.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_phone.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_health.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_health.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_person.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_person.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_update.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_update.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_show_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/show_password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_appoint.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_appoint.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_background_right.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/background_right.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_image2.jpg.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/image2.jpg"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_question.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_question.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_doctor_display_chats.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_doctor_display_chats.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_payment.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_payment.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_user_item.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/user_item.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_signature.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_signature.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_blood_red.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_blood_red.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_person1.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_person1.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_row_current.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/row_current.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_admin__doctor__details.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_admin__doctor__details.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_chat.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_chat.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_money.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_money.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_immunology.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/immunology.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_w_health.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_w_health.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_rx.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_rx.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/font_carter_one.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/font/carter_one.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_bmi.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/bmi.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_foot.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable-xxhdpi/ic_foot.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_admin_payment_rv.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/admin_payment_rv.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_instructions.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_instructions.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_bmi.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_bmi.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_contype.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_contype.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_person.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_person.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_blood_yellow.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_blood_yellow.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_relevant.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_relevant.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_twitter.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_twitter.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_phone.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_instructions.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_instructions.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_signature.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_signature.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_diagnosis.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_diagnosis.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_edit.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_anu.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/anu.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_email_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/email_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_home.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_home.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_search.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_search.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_share.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_health.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_health.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_camera.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_camera.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_appoint.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_appoint.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_custom_edit.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/custom_edit.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_speciality1.jpeg.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/speciality1.jpeg"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mail.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_mail.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_location.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_location.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_human.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/human.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_diagnosis.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_diagnosis.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_whealth_predicted.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/whealth_predicted.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_person1.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_person1.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_chat_item_left.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/chat_item_left.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_rx.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_rx.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_add.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_add.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_step_counter.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_step_counter.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_report.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_report.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_menu.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_brain.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/brain.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_appointment_rv_fragment.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/appointment_rv_fragment.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_dropdown_gender.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/dropdown_gender.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_search.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_search.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_linkedin.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_linkedin.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_logout.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_hide_password_vector_asset.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/hide_password_vector_asset.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_foot.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable-xxhdpi/foot.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_delete.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_patient.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_patient.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_phone.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_rx.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_rx.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_relevant.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_relevant.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_patient_message.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_patient_message.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_lock.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_lock.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_background_left.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/background_left.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_facebook.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_facebook.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_weight.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_weight.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_linkedin.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_linkedin.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_our_doctors.jpeg.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/our_doctors.jpeg"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_start.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_start.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_share.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_share.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_search.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_search.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_update.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_update.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_blood_pressure.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_blood_pressure.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_facebook.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_facebook.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_add.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_data.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/data.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_slot.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_slot.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_home.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_home.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_doctor_view_slot_card.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/doctor_view_slot_card.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_communicate.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_communicate.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_contactno_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/contactno_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_add.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_height.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_height.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/menu_bottom_navigation_menu.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_cardiac1.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/cardiac1.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_appoint.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_appoint.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_chat_item_right.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/chat_item_right.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_lock.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_lock.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_make_payment.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_make_payment.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_doctor__side__previous__prescriptions.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_doctor__side__previous__prescriptions.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_admin_feedback_rv.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/admin_feedback_rv.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_image_black.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable-xxhdpi/ic_image_black.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_camera.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_camera.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_relevant.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_relevant.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_instructions.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_instructions.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_doctor.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_doctor.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_menu.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_menu.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_relevant.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_relevant.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_communicate.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_communicate.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_slot.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_slot.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_admin_.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_admin_.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_mail.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_mail.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_whealth_duration.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/whealth_duration.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_patient_book_appointment.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_patient_book_appointment.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_tuberculosis.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/tuberculosis.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_instructions.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_instructions.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_payment.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_payment.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_dermavenereolepro.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/dermavenereolepro.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_linkedin.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_linkedin.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_appointments.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_appointments.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_hide_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/hide_password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_edit.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_edit.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_edit.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_health.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_health.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_feed.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_feed.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_notifications.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_notifications.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_menu.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_location.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_location.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_date.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_date.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_doctor_messageactivity.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/doctor_messageactivity.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_money.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_money.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_chat.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_chat.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_setting.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_setting.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_skin.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/skin.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/menu_doctor_menu.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/menu/doctor_menu.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_lock.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_lock.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_mail.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_mail.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_contactno_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/contactno_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_height.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_height.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_exam.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_exam.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_patient_view_doctor.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_patient_view_doctor.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_logout.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_contactno_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/contactno_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_camera.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_camera.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_hide_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/hide_password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_specialist4.jpeg.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/specialist4.jpeg"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_facebook.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_facebook.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_contype.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_contype.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_doctor.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_doctor.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_hide_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/hide_password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_update.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_update.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_share.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_share.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_linkedin.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_linkedin.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_rx.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_rx.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_women.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/women.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_age.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_age.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_respirate.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/respirate.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_facebook.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_facebook.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_notifications.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_notifications.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_doctor.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/doctor.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_edit.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_fungal.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/fungal.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_location.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_location.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_twitter.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_twitter.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_contype.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_contype.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_contactno_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/contactno_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_appoint.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_appoint.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_doctor.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_doctor.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_height.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_height.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_backgroundbox.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/backgroundbox.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_step.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/step.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_chat.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_chat.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_location.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_location.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_list_layout.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/list_layout.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_money.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_money.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_setting.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_setting.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_height.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_height.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_doctor_view_profile.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_doctor_view_profile.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_add.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_lock.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_lock.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_email_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/email_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_datepatientselector.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/datepatientselector.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_slot.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_slot.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_weight.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_weight.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_show_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/show_password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_row_previous.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/row_previous.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_facebook.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_facebook.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_specialist5.jpeg.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/specialist5.jpeg"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_image_black.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable-mdpi/ic_image_black.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_twitter.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_twitter.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_doctor.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_doctor.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_special.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_special.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_age.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_age.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_mail.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_mail.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_person.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_person.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_exam.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_exam.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_speciality_item.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/speciality_item.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_blood_red.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_blood_red.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_special.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_special.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_liver.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/liver.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_relevant.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_relevant.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_hiv.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/hiv.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_attach.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_attach.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_rx.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_rx.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_edit_round.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/edit_round.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_blood_red.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_blood_red.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_home.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_home.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_person.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_appointment_doc.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/appointment_doc.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_email_vector_asset.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/email_vector_asset.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_exam.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_exam.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_search.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_search.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_lung.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/lung.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_doctors__show__feedback.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_doctors__show__feedback.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_setting.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_setting.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_health.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_health.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_location.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_location.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_feed.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_feed.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_weight.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_weight.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_admin.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/admin.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_delete.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_doctors.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_doctors.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_appoint.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_appoint.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_blood_red.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_blood_red.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_verify_otp.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_verify_otp.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_search.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_search.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_weight.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_weight.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_attach.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_attach.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_height.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_height.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_blood_yellow.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_blood_yellow.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_linkedin.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_linkedin.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_send.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/send.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_notifications.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_notifications.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_diagnosis.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_diagnosis.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_image_black.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_image_black.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_tension.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/tension.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_question.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_question.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_patient_appointments_rv.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/patient_appointments_rv.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_communicate.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_communicate.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_question.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_question.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_ent.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/ent.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_thyroid.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/thyroid.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_home.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_home.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_logout.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_contact.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_contact.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_hepato.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/hepato.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_linkedin.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_linkedin.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_contype.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_contype.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_facebook.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_facebook.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_shikha.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/shikha.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_question.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_question.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_signature.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_signature.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_fire.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_fire.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_diagnosis.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_diagnosis.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_show_password_vector_asset.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/show_password_vector_asset.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_health.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_health.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_delete.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_image1.jpg.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/image1.jpg"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/menu_admin_menu.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/menu/admin_menu.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_jatin.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/jatin.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_doctor.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_doctor.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_camera.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_camera.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_report.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_report.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_special.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_special.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_image_black.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_image_black.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_location.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_location.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/font_aclonica.ttf.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/font/aclonica.ttf"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_add.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_chat.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_chat.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_money.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_money.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_available__doctors.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_available__doctors.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_contactno_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/contactno_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_patient_display_chats.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_patient_display_chats.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_communicate.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_communicate.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_setting.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_setting.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_notifications.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_notifications.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_doctors_login.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_doctors_login.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_money.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_money.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_notifications.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_notifications.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_update.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_update.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_attach.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_attach.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_image_black.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable-hdpi/ic_image_black.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_signature.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_signature.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_special.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_special.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_communicate.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_communicate.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_setting.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_setting.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_date.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_date.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_email_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/email_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_blood_yellow.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_blood_yellow.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_home.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_contactno_vector_asset.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/contactno_vector_asset.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_admin_payment.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_admin_payment.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_signature.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_signature.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_patient__details__doctors__side.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_patient__details__doctors__side.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_doctor_update_profile.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_doctor_update_profile.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_blood_yellow.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_blood_yellow.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_instructions.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_instructions.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_person.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_person.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_logout.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_logout.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_doctor_add_admin.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_doctor_add_admin.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_special.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_special.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_height.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_height.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_person1.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_person1.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_password.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_password.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_image_black.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_image_black.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_menu.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_menu.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_cardiac.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/cardiac.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_date.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_date.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_send.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_send.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_email_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/email_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_weight.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_weight.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_fire.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_fire.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_doctor.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_doctor.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_camera.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_camera.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_phyzihealth.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_phyzihealth.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_age.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_age.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_attach.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_attach.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_hide_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/hide_password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_special.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_special.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_notifications.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_notifications.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_report.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_report.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_payment.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_payment.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_question.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_question.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_contype.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_contype.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_feedback.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_slot.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_slot.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_phone.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_phone.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_phone.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_tropical.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/tropical.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_hide_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/hide_password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_communicate.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_communicate.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_search.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_search.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_view__all__speciality.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_view__all__speciality.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_feed.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_feed.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_password.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_password.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_twitter.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_twitter.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_hide_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/hide_password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_update.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_update.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/font_alfa_slab_one.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/font/alfa_slab_one.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_specialist3.jpeg.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/specialist3.jpeg"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_payment.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_payment.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_exam.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_exam.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_patient.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/patient.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_person1.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_person1.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_admin_feedback.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_admin_feedback.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_logout.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_specialist2.jpeg.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/specialist2.jpeg"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_edit.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_update_password.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/update_password.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_date.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_date.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_age.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_age.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_welcome.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/welcome.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_share.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_hormone.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/hormone.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_phone.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_blood_red.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_blood_red.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_diagnosis.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_diagnosis.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_search.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_search.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_image_black.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable-xhdpi/ic_image_black.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_email_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/email_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_prescription_data_patient.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/prescription_data_patient.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_image3.jpg.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/image3.jpg"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_update.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_update.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_rx.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_rx.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_blood_red.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_blood_red.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_custom_button.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/custom_button.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_attach.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_attach.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_notifications.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_notifications.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_weight.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_weight.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_contactno_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/contactno_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_mail.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_mail.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_password.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_password.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_patient_dp.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/patient_dp.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_diagnosis.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_diagnosis.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_home.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_home.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_delete.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_pwd.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/pwd.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_setting.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_setting.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_exam.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_exam.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_age.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_age.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_lock.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_lock.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_show_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/show_password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_signature.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_signature.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_question.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_question.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_report.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_report.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_date.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_date.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_blood_red.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_blood_red.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_transplant.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/transplant.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_password.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_password.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_twitter.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_twitter.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_prescription.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_prescription.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_ophtha.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/ophtha.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_feed.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_feed.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_menu.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_doctors__show__previous__prescription__doctors.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_doctors__show__previous__prescription__doctors.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_admin__available__appointments.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_admin__available__appointments.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_neuro.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/neuro.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_twitter.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_twitter.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_specialist6.jpeg.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/specialist6.jpeg"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_person.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_person.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_header.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_slider_layout.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/slider_layout.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_payment.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_payment.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_contype.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_contype.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_person1.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_person1.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_slot.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_slot.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_diabetes.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/diabetes.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_show_password_vector_asset.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/show_password_vector_asset.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable_bp.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/drawable/bp.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_password.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_password.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_age.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-mdpi/ic_age.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/layout_activity_patient_side_prescription_recycler.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/src/main/res/layout/activity_patient_side_prescription_recycler.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_camera.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_camera.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_exam.xml.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_exam.xml"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_logout.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-ldpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_update.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_update.png"
+    },
+    {
+        "merged": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_fire.png.flat",
+        "source": "/home/shreya1/IP/Updated_Code/Final_Folder/AhujaClinic/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_fire.png"
+    }
+]

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Phyzician</string>
+    <string name="slots_booked">Slots Booked:</string>
+
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="nav_drawer_open">Open Navigation Drawer</string>
+    <string name="nav_drawer_close">Close Navigation Drawer</string>
+
+    <string-array name="Speciality">
+        <item>Infectious Disease</item>
+        <item>Dermatology &amp; Venereology</item>
+        <item>Leprology</item>
+        <item>Endocrinology &amp; Diabetes</item>
+        <item>Thyroid"</item>
+        <item>Hormone</item>
+        <item>Immunology</item>
+        <item>Rheumatology</item>
+        <item>Neurology</item>
+        <item>Ophthalmology</item>
+        <item>Cardiac Sciences</item>
+        <item>Cancer Care / Oncology</item>
+        <item>Gastroenterology, Hepatology &amp; Endoscopy</item>
+        <item>Ear Nose Throat</item>
+    </string-array>
+
+
+</resources>

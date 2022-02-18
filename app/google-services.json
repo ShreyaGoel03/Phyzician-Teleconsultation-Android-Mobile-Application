@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784161200645",
+    "project_id": "ahujaclinic-86055",
+    "storage_bucket": "ahujaclinic-86055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784161200645:android:a850dec322156f61341a6c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784161200645-1meofdm4hol5q0oau347keot00n6p47u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDOd2fQcqYIw3uXeGaLIYmC2ock9NmJRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784161200645-1meofdm4hol5q0oau347keot00n6p47u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

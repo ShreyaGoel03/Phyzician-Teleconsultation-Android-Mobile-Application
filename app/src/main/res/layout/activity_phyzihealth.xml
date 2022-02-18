@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+        <TextView
+            android:id="@+id/headingText"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginTop="32dp"
+            android:fontFamily="@font/carter_one"
+            android:text="PhyziHealth"
+            android:textColor="#006057"
+            android:textSize="48sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/animation_view"
+            android:layout_width="0dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="16dp"
+            android:scaleType="fitCenter"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/headingText"
+            app:lottie_autoPlay="true"
+            app:lottie_fileName="all.json"
+            app:lottie_loop="true" />
+
+        <LinearLayout
+            android:id="@+id/bmiLayout"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/animation_view">
+
+            <ImageView
+                android:id="@+id/bmiImage"
+                android:layout_width="160dp"
+                android:layout_height="match_parent"
+                android:layout_margin="16dp"
+                android:src="@drawable/bmi" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/goblin_one"
+                android:gravity="center_vertical"
+                android:text="BMI"
+                android:textColor="@color/teal_700"
+                android:textSize="16sp"
+                android:textStyle="italic" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/stepLayout"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/bmiLayout">
+
+            <ImageView
+                android:id="@+id/stepImage"
+                android:layout_width="160dp"
+                android:layout_height="match_parent"
+                android:layout_margin="16dp"
+                android:src="@drawable/step" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/goblin_one"
+                android:gravity="center_vertical"
+                android:text="Step Counter"
+                android:textColor="@color/teal_700"
+                android:textSize="16sp"
+                android:textStyle="italic" />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/bpLayout"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/stepLayout">
+
+            <ImageView
+                android:id="@+id/bpImage"
+                android:layout_width="160dp"
+                android:layout_height="match_parent"
+                android:layout_margin="16dp"
+                android:src="@drawable/bp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/goblin_one"
+                android:gravity="center_vertical"
+                android:text="Blood Pressure"
+                android:textColor="@color/teal_700"
+                android:textSize="16sp"
+                android:textStyle="italic" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/whLayout"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="32dp"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/bpLayout">
+
+            <ImageView
+                android:id="@+id/whImage"
+                android:layout_width="160dp"
+                android:layout_height="match_parent"
+                android:layout_margin="16dp"
+                android:src="@drawable/women" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/goblin_one"
+                android:gravity="center_vertical"
+                android:text="Women's Health"
+                android:textColor="@color/teal_700"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                />
+
+
+        </LinearLayout>
+
+
+
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

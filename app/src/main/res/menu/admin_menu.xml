@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/chat"
+            android:icon="@drawable/ic_chat"
+            android:title="Chat" />
+
+        <item
+            android:id="@+id/appointment_doc"
+            android:icon="@drawable/ic_appoint"
+            android:title="All Appointments" />
+
+        <item
+            android:id="@+id/payment_doc"
+            android:icon="@drawable/ic_payment"
+            android:title="Payments" />
+
+
+        <item
+            android:id="@+id/Add_doc"
+            android:icon="@drawable/ic_add"
+            android:title="Add Doctor" />
+
+        <item
+            android:id="@+id/feedback_doc"
+            android:icon="@drawable/ic_feed"
+            android:title="FeedBacks" />
+
+
+        <item
+            android:id="@+id/settingsApp"
+            android:icon="@drawable/ic_setting"
+            android:title="Settings" />
+
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout" />
+
+    </group>
+
+    <item android:title="Communicate"
+        android:icon="@drawable/ic_communicate">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/website"
+                    android:title="Website"
+                    android:icon="@drawable/ic_communicate"/>
+                <item
+                    android:id="@+id/facebook"
+                    android:title="Facebook"
+                    android:icon="@drawable/ic_communicate"/>
+                <item
+                    android:id="@+id/twitter"
+                    android:title="Twitter"
+                    android:icon="@drawable/ic_communicate"/>
+                <item
+                    android:id="@+id/linkedin"
+                    android:title="Linkedin"
+                    android:icon="@drawable/ic_communicate"/>
+            </group>
+        </menu>
+    </item>
+
+
+</menu>

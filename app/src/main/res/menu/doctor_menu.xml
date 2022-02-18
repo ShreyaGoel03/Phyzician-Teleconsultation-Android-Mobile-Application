@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_person1"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/slots"
+            android:icon="@drawable/ic_slot"
+            android:title="Your Slots" />
+
+        <item
+            android:id="@+id/appointment"
+            android:icon="@drawable/ic_appoint"
+            android:title="Appointment" />
+
+        <item
+            android:id="@+id/chats"
+            android:icon="@drawable/ic_chat"
+            android:title="Chats" />
+
+
+        <item
+            android:id="@+id/settingsApp"
+            android:icon="@drawable/ic_setting"
+            android:title="Settings" />
+
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout" />
+
+    </group>
+
+    <item android:title="Communicate"
+        android:icon="@drawable/ic_communicate">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/website"
+                    android:title="Website"
+                    android:icon="@drawable/ic_communicate"/>
+                <item
+                    android:id="@+id/facebook"
+                    android:title="Facebook"
+                    android:icon="@drawable/ic_communicate"/>
+                <item
+                    android:id="@+id/twitter"
+                    android:title="Twitter"
+                    android:icon="@drawable/ic_communicate"/>
+                <item
+                    android:id="@+id/linkedin"
+                    android:title="Linkedin"
+                    android:icon="@drawable/ic_communicate"/>
+            </group>
+        </menu>
+    </item>
+
+
+</menu>

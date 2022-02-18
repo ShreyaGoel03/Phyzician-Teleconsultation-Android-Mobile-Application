@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xmnls="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmnls:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardUseCompatPadding="true">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:text="Name"
+            android:textColor="@color/teal_700"
+            android:textSize="15dp"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/name"
+            android:layout_marginLeft="4dp"
+            android:gravity="center"
+            android:text="Phone"
+            android:textColor="@color/teal_700"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/name"
+            android:layout_marginLeft="4dp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="Email"
+            android:textColor="@color/teal_700"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="186dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/phone"
+            android:layout_marginLeft="4dp"
+            android:layout_marginTop="19dp"
+            android:gravity="left"
+            android:text="Date "
+            android:textColor="@color/teal_700"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="237dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/phone"
+            android:layout_marginLeft="4dp"
+            android:layout_marginTop="20dp"
+            android:layout_toRightOf="@+id/date"
+            android:gravity="right"
+            android:text="Time"
+            android:textColor="@color/teal_700"
+            android:textSize="15dp" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
